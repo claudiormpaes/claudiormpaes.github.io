@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "br.com.claudiopaes.teleprompter",
+      "sha256_cert_fingerprints": [
+        "64:F4:C9:52:94:DA:60:C0:71:4F:B4:AD:F0:42:2E:85:C9:30:F1:AA:D2:39:F1:80:DA:6D:17:11:5A:36:82:FD"
+      ]
+    }
+  }
+]
